@@ -1,0 +1,78 @@
+﻿student_id,room_no,student_name,admission date,isSingleParent
+1,1,Ankush Ramesh Bochare,,no
+2,1,Swapnil Mohanshingh Parihar,,no
+3,1,Pawan Dattatray Rge,,no
+4,2,Vaibhav Anant Tangade,,no
+5,2,Suyash Tukaram Bohsaye,,no
+6,2,Ravindra Keshav Gaikwad,,no
+7,3,Dattatray Vishal Mhaske,,no
+8,3,Mahesh Mujaji Mujmule,,no
+9,4,Mangesh Rajkumar Panchal,,no
+10,4,Shivshankar Suresh Bansode,,no
+11,5,Pandurang Atmaram Ghuge,,no
+12,5,Aakash Satish Tarke,,no
+13,5,Akshay Kale,,no
+14,5,Onkar Tarke,,no
+15,11,Sunil Bhosale,,no
+16,11,Kartik Sawant,,no
+17,12,Vaibhav Dhandge,,no
+18,12,Shivraj Kadam,,no
+19,12,Pratik Patil,,no
+20,12,Shubham Gavhane,,no
+21,13,Sachin Wagh,,no
+22,13,Vedant Dhakane,,no
+23,13,Chetan Ravate,,no
+24,13,Sachin Maharnar,,no
+25,14,Yazesha kadam,,no
+26,14,Revannath Thorat,,no
+27,14,Shubham Kambale,,yes
+28,14,Ganesh Sawant,,no
+29,15,Pavan Wabale,,no
+30,15,Yogesh Dhole,,no
+31,15,Mahesh Mahanwar,,no
+32,15,Aniket Mahanwar,,no
+33,16,Vaijinath Madane,,yes
+34,16,Yogesh Dedhe,,no
+35,16,Pavan Paithane,,no
+36,21,Shivaji Mane,,no
+37,21,Ajay Rindhe,,no
+38,22,Anand Jathar,,no
+39,22,Om Mohite,,no
+40,22,Prathamesh Waghmare,,no
+41,22,Vijay Patil,,no
+42,23,Akshay Garole,,no
+43,23,Anup Rindhe,,no
+44,23,Milind Solanke,,no
+45,23,Sagar Shinde,,no
+46,24,Abhay Nimbalkar,,yes
+47,24,Maroti Sabale,,yes
+48,24,Baburao Bhosale,,no
+49,24,Govind Bende,,no
+50,25,Akash Sonune,,yes
+51,25,Swapnil Dhandage,,no
+52,25,Bhausaheb Pawar,,no
+53,25,Dnyaneshwar Lingayat,,no
+54,26,Dattatray Popalghat,,no
+55,26,Dnyaneshwar Dukare,,yes
+56,26,Pavan Dagdale,,no
+57,31,Akshay Sawant,,no
+58,31,Sachin Bundhe,,no
+59,32,Roshan Raut,,no
+60,32,Aashish Kohakade,,no
+61,32,Shubham Gaurshete,,yes
+62,32,Dnyaneshwar Roman,,no
+63,33,Rushikesh Kapase,,no
+64,33,Dnyaneshwar Pawar,,no
+65,33,Abhijit Thorat,,no
+66,33,Dhruvkumar Jewale,,no
+67,34,Tejas Mhetre,,no
+68,34,Suyash Dhere,,no
+69,34,Pritam Ahirrao,,no
+70,34,Rohit Shejulkar,,no
+71,35,Mangesh Hade,,no
+72,35,Vikas Sul,,yes
+73,35,Samadhan Madne,,no
+74,35,Vinayak Sonune,,no
+75,36,Krushna Rakeli,,no
+76,36,Shubham Repal,,no
+77,36,Kiran Wakale,,no
